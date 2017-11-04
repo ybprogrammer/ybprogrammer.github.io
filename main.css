@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic');
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #3498db;
+	font-family: 'Lobster', sans-serif;
+	color: #ecf0f1;
+}
+
+.cc {
+	text-align: center;
+	font-size: 95px;
+	margin: 200px auto;
+}
+
+.image {
+	text-align: center;
+	margin-top: -150px;
+	margin-bottom: 300px;
+}
+
+.congr {
+	background-color: #fff;
+	margin: 0 auto;
+	margin-bottom: 150px;
+	padding: 15px;
+	font-size: 45px;
+	border-radius: 15px;
+	color: #2c3e50;
+	-webkit-box-shadow: 0 0 12px 2px rgba(189,195,199,.5);
+	box-shadow: 0 0 12px 2px rgba(189,195,199,.5);
+}
