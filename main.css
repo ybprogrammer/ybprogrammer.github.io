@@ -33,4 +33,5 @@ body {
 	color: #2c3e50;
 	-webkit-box-shadow: 0 0 12px 2px rgba(189,195,199,.5);
 	box-shadow: 0 0 12px 2px rgba(189,195,199,.5);
+	text-align: center;
 }
